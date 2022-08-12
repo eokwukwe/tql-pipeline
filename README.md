@@ -1,6 +1,6 @@
 # Backend Assessment
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/4b0f4dc2ea02426988fdcf0d98325921)](https://www.codacy.com/gh/eokwukwe/tql-pipeline/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=eokwukwe/tql-pipeline&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5c7881e3dd4a49c7b1ef9b9e2b3281be)](https://www.codacy.com/gh/eokwukwe/tql-pipeline/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=eokwukwe/tql-pipeline&amp;utm_campaign=Badge_Grade)
 
 Build and deploy a very simple API that does the following
 
